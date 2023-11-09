@@ -1,0 +1,4 @@
+{
+  "extends": "@sovic/ts-config/base.json",
+  "include": ["src"]
+}
