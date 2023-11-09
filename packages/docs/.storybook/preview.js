@@ -13,7 +13,10 @@ const preview = {
     docs: {
       autodocs: true,
       theme: themes.dark
-    }
+    },
+    backgrounds: {
+      default: 'dark'
+    },
   },
 };
 
